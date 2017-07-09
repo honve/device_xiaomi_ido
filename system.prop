@@ -110,7 +110,10 @@ ro.telephony.call_ring.multiple=false
 ril.subscription.types=NV,RUIM
 persist.radio.apm_sim_not_pwdn=1
 persist.radio.multisim.config=dsds
-ro.telephony.default_network=9,9
+ro.telephony.default_network=22,22
+o.telephony.default_cdma_sub=0
+ro.telephony.call_ring.multiple=false
+persist.data.qmi.adb_logmask=0
 
 # SDcardFS
 ro.sys.sdcardfs=true
